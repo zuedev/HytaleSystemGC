@@ -1,0 +1,16 @@
+{
+  "Group": "zuedev",
+  "Name": "HytaleSystemGC",
+  "Version": "${project.version}",
+  "Description": "Automatic garbage collection scheduler",
+  "Authors": [
+    {
+      "Name": "zuedev"
+    }
+  ],
+  "ServerVersion": "*",
+  "Dependencies": {},
+  "OptionalDependencies": {},
+  "DisabledByDefault": false,
+  "Main": "com.zuedev.systemgc.SystemGCPlugin"
+}
