@@ -24,7 +24,7 @@ A lightweight Hytale server plugin that automatically triggers garbage collectio
 ### From Release
 
 1. Download the latest release JAR from the [Releases](https://github.com/zuedev/HytaleSystemGC/releases) page
-2. Place the JAR in your server's `plugins` folder
+2. Place the JAR in your server's `earlyplugins` folder
 3. Restart the server
 
 ### Building from Source
